@@ -6,9 +6,9 @@ This project aims to develop a sophisticated credit card weekly dashboard, provi
 
 # Tech Stack Used
 
-![PowerBI](https://github.com/VikasMalik64/Images/blob/7960f298e77adf6bade233462a06b4b5e3aeaa53/Credit%20Card%20Financial%20Report/New_Power_BI_Logo.svg%20(1).png)
+![PowerBI](https://github.com/VikasMalik64/Images/blob/7960f298e77adf6bade233462a06b4b5e3aeaa53/Credit%20Card%20Financial%20Report/New_Power_BI_Logo.svg%20(1).png)       ![postgresql](https://github.com/VikasMalik64/Images/blob/6d3c58b28c9ace3846d807cd4430cd275937be8c/Music%20Store%20SQL/postgresql-logo-svgrepo-com.png)     
 
-PowerBI
+PowerBI                                                                         PostgreSQL and pgAdmin4
 
 ![postgresql](https://github.com/VikasMalik64/Images/blob/6d3c58b28c9ace3846d807cd4430cd275937be8c/Music%20Store%20SQL/postgresql-logo-svgrepo-com.png)
 
