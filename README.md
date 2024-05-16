@@ -1,6 +1,6 @@
 # 🛍️ Credit Card Financial Report Dashboard
 
-💡 Project Description
+# 💡 Project Description
 
 This project aims to develop a sophisticated credit card weekly dashboard, providing stakeholders with real-time insights to effectively monitor and analyze key performance metrics and trends in credit card operations. By implementing this dashboard, we seek to enhance decision-making processes and optimize operational efficiency within our credit card management system.
 
